@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "XamlIslandsNet9 (MSIX)": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": true
+    },
+    "XamlIslandsNet9 (Unpackaged)": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
